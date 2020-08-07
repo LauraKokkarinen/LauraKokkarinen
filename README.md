@@ -1,4 +1,18 @@
-### Hi there 👋
+## Laura Kokkarinen (@LauraKokkarinen)
+
+### Blog
+
+https://laurakokkarinen.com
+
+### Contact
+
+laura@laurakokkarinen.com
+
+### Social media
+
+- https://twitter.com/laurakokkarinen
+- https://www.linkedin.com/in/laurakokkarinen
+- https://www.instagram.com/laurakokkarinen
 
 <!--
 **LauraKokkarinen/LauraKokkarinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
