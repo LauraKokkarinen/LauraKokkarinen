@@ -12,7 +12,8 @@ laura@laurakokkarinen.com
 
 - https://twitter.com/laurakokkarinen
 - https://www.linkedin.com/in/laurakokkarinen
-- https://www.instagram.com/laurakokkarinen
+- https://www.instagram.com/laurakokkarinencom
+- https://www.facebook.com/laurakokkarinencom
 
 <!--
 **LauraKokkarinen/LauraKokkarinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
