@@ -1,12 +1,12 @@
 ## Laura Kokkarinen (@LauraKokkarinen)
 
+- 🔭 I’m currently working on project templates, reusable libraries and demo applications.
+- 💬 Ask me about software development best practices on the Microsoft 365 and Azure platforms.
+- 📫 How to reach me: https://laurakokkarinen.com/contact
+
 ### Blog
 
 https://laurakokkarinen.com
-
-### Contact
-
-laura@laurakokkarinen.com
 
 ### Social media
 
@@ -16,16 +16,18 @@ laura@laurakokkarinen.com
 - https://www.facebook.com/laurakokkarinencom
 
 <!--
-**LauraKokkarinen/LauraKokkarinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Repository naming convention
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[platform]-[project type]-[descriptive name]-[language]-[runtime|framework]-[if template]
+
+Examples:
+- azure-function-dependencyinjection-template-csharp-dotnetcore
+- azure-durablefunction-dependencyinjection-template-csharp-dotnetcore
+- azure-durablefunction-dependencyinjection-template-csharp-dotnetstandard
+- azure-durablefunction-dependencyinjection-template-typescript-nodejs
+- spfx-library-graphservice-template-typescript-react
+- spfx-webpart-pinnedposts-typescript-react
+- class-library-graphservice-template-csharp-dotnetcore
+
 -->
