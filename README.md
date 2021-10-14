@@ -19,15 +19,16 @@ https://laurakokkarinen.com
 
 ### Repository naming convention
 
-[platform]-[project type]-[descriptive name]-[language]-[runtime|framework]-[if template]
+[platform]-[project type]-[descriptive name]-[if template|sample]-[if framework]-[if alternate language]
 
 Examples:
-- azure-function-dependencyinjection-template-csharp-dotnetcore
-- azure-durablefunction-dependencyinjection-template-csharp-dotnetcore
-- azure-durablefunction-dependencyinjection-template-csharp-dotnetstandard
-- azure-durablefunction-dependencyinjection-template-typescript-nodejs
-- spfx-library-graphservice-template-typescript-react
-- spfx-webpart-pinnedposts-typescript-react
-- class-library-graphservice-template-csharp-dotnetcore
+- azure-function-dependencyinjection-sample-dotnetcore
+- azure-durablefunction-dependencyinjection-template-dotnetcore
+- azure-durablefunction-dependencyinjection-template-dotnetcore-fsharp
+- azure-durablefunction-dependencyinjection-template-dotnetstandard
+- azure-durablefunction-dependencyinjection-template-nodejs
+- spfx-library-graphservice-template (no framework)
+- spfx-teamstab-pinnedposts-react (not a sample/template)
+- generic-library-graphservice-template-dotnetcore
 
 -->
